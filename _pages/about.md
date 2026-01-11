@@ -17,30 +17,28 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am a second-year Ph.D. student (2024–) at the College of Computer Science and Technology, China University of Petroleum (East China), under the supervision of <a href='http://chenglizhaochen.cn/'>Prof. Chenglizhao Chen</a>. I received my previous training in computer vision and industrial AI, with my early research and engineering work focusing on visual anomaly detection using fixed-position multi-view camera setups, through which I completed multiple real-world industrial product deployments.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+Recently, my research interests have shifted toward embodied AI, focusing on the integration of 3D geometric vision, active sensing, and robotic interaction to enable robust perception and decision-making in complex real-world environments.
 
+Any form of collaboration is welcome. Please feel free to contact me via email (yuanshaojiang001@163.com; bz24070009@s.upc.edu.cn).
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.02*: Our paper on <a href='https://arxiv.org/abs/2601.01181'>Concealed Object Generation</a> is submitted to CVPR 2026.
+- *2025.05*: &nbsp;🎉🎉 Our paper on <a href='https://ieeexplore.ieee.org/abstract/document/11002588/'>Multi-view Image Anomaly Detection</a> has been accepted by IEEE TIM.
+- *2025.02*: &nbsp;🎉🎉 Our paper on <a href='https://ieeexplore.ieee.org/abstract/document/10234460'>Single-view Video Anomaly Detection</a> has been accepted by IEEE TCSVT.
+- *2024.04*: &nbsp;🎉🎉 Admitted to the Ph.D. program at China University of Petroleum (East China) with the <a href='https://computer.upc.edu.cn/2024/0423/c21961a429454/page.htm'>top overall ranking in the major</a>.
+- *2023.08*: &nbsp;🎉🎉 Our paper on <a href='https://ieeexplore.ieee.org/abstract/document/11002588/'>Specular Reflective Removal</a> has been accepted by IEEE TIM.
 
-# 📝 Publications 
+# 📝 Publications and Projects
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+1.Surface defect detection of highly reflective leather based on dual-mask-guided deep-learning model
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Shaojiang Yuan, Li Li, Hao Chen, Xian Li
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
