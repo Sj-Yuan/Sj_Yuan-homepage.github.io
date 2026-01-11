@@ -21,8 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Shaojiang Yuan
-  (原少将)"
+  name             : "Shaojiang Yuan(原少将)"
   avatar           : "images/myself.jpg"
   bio              : "PhD at UPC"
   location         : "Qingdao, China"

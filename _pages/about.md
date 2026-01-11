@@ -30,6 +30,7 @@ Any form of collaboration is welcome. Please feel free to contact me via email (
 - *2024.04*: &nbsp;🎉🎉 Admitted to the Ph.D. program at China University of Petroleum (East China) with the <a href='https://computer.upc.edu.cn/2024/0423/c21961a429454/page.htm'>top overall ranking in the major</a>.
 - *2023.08*: &nbsp;🎉🎉 Our paper on <a href='https://ieeexplore.ieee.org/abstract/document/10234460'>Specular Reflective Removal</a> has been accepted by IEEE TIM.
 
+- <a id="publications"></a>
 # 📝 Publications and Projects
 
 <div class='paper-box-text' markdown="1">
@@ -64,3 +65,7 @@ Chenglizhao Chen, Xinyu Liu, Mengke Song, Luming Li, **Shaojiang Yuan**, Xu Yu, 
 # 🎖 Honors and Awards
 - National Scholarship (the highest scholarship for Student), 2023.11
 - National Third Prize in "HUAWEI Cup" The 21st China Post-Graduate Mathematical Contest in Modeling, 2024.12
+
+# 💻 Internships
+- *2021.06 - 2021.08*, Huawei, Hubei Mobile Project, Wuhan, China.
+- *2023.06 - 2023.09*, Goertek, Microsoft AR Glasses Project, Qingdao, China.
