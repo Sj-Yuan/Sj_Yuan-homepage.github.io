@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Shaojiang Yuan  (原少将)"
+title                    : "Shaojiang Yuan(原少将)"
 description              : "Focusing on computer vision, manufacturing, and robotics."
 repository               : "Sj-Yuan/Sj_Yuan-homepage.github.io"
 google_scholar_stats_use_cdn : true
@@ -21,7 +21,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Shaojiang Yuan  (原少将)"
+  name             : "Shaojiang Yuan
+  (原少将)"
   avatar           : "images/myself.jpg"
   bio              : "PhD at UPC"
   location         : "Qingdao, China"
