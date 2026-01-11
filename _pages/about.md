@@ -27,7 +27,7 @@ Any form of collaboration is welcome. Please feel free to contact me via email (
 - *2026.01*: Our paper on <a href='https://arxiv.org/abs/2601.01181'>Concealed Object Generation</a> is submitted to CVPR 2026.
 - *2025.05*: &nbsp;🎉🎉 Our paper on <a href='https://ieeexplore.ieee.org/abstract/document/11002588/'>Multi-view Image Anomaly Detection</a> has been accepted by IEEE TIM.
 - *2025.02*: &nbsp;🎉🎉 Our paper on <a href='https://ieeexplore.ieee.org/abstract/document/10234460'>Single-view Video Anomaly Detection</a> has been accepted by IEEE TCSVT.
-- *2024.04*: &nbsp;🎉🎉 Admitted to the Ph.D. program at China University of Petroleum (East China) with the <a href='https://computer.upc.edu.cn/2024/0423/c21961a429454/page.htm'>top overall ranking in the major</a>.
+- *2024.04*: &nbsp;🎉🎉 <a href='https://computer.upc.edu.cn/2024/0423/c21961a429454/page.htm'>Ranked 1st</a> in the major on the Ph.D. admission list at China University of Petroleum (East China).
 - *2023.08*: &nbsp;🎉🎉 Our paper on <a href='https://ieeexplore.ieee.org/abstract/document/10234460'>Specular Reflective Removal</a> has been accepted by IEEE TIM.
 
 # 📝 Publications and Projects
