@@ -24,33 +24,43 @@ Recently, my research interests have shifted toward embodied AI, focusing on the
 Any form of collaboration is welcome. Please feel free to contact me via email (yuanshaojiang001@163.com; bz24070009@s.upc.edu.cn).
 
 # 🔥 News
-- *2025.02*: Our paper on <a href='https://arxiv.org/abs/2601.01181'>Concealed Object Generation</a> is submitted to CVPR 2026.
+- *2026.01*: Our paper on <a href='https://arxiv.org/abs/2601.01181'>Concealed Object Generation</a> is submitted to CVPR 2026.
 - *2025.05*: &nbsp;🎉🎉 Our paper on <a href='https://ieeexplore.ieee.org/abstract/document/11002588/'>Multi-view Image Anomaly Detection</a> has been accepted by IEEE TIM.
 - *2025.02*: &nbsp;🎉🎉 Our paper on <a href='https://ieeexplore.ieee.org/abstract/document/10234460'>Single-view Video Anomaly Detection</a> has been accepted by IEEE TCSVT.
 - *2024.04*: &nbsp;🎉🎉 Admitted to the Ph.D. program at China University of Petroleum (East China) with the <a href='https://computer.upc.edu.cn/2024/0423/c21961a429454/page.htm'>top overall ranking in the major</a>.
-- *2023.08*: &nbsp;🎉🎉 Our paper on <a href='https://ieeexplore.ieee.org/abstract/document/11002588/'>Specular Reflective Removal</a> has been accepted by IEEE TIM.
+- *2023.08*: &nbsp;🎉🎉 Our paper on <a href='https://ieeexplore.ieee.org/abstract/document/10234460'>Specular Reflective Removal</a> has been accepted by IEEE TIM.
 
 # 📝 Publications and Projects
 
 <div class='paper-box-text' markdown="1">
+*: Equal contribution #: Corresponding author.
+
+8.GenCAMO: Scene-Graph Contextual Decoupling for Environment-aware and Mask-free Camouflage Image-Dense Annotation Generation
+
+Chenglizhao Chen, **Shaojiang Yuan**#*, Xiaoxue Lu, Mengke Song, Jia Song, Zhenyu Wu, Wenfeng Song, Shuai Li
+
+7.Real-Time Visual Anomaly Detection in Food Processing Lines(Student Project Leader) 2025.06-Present
+
+6.Visual Inspection of Transparent Medical Bags for Foreign Contaminants(Student Project Leader) 2024.12-2025.12
+
+5.Robust Industrial Anomaly Detection via Style Shift Estimation and Cascade Distillation
+
+**Shaojiang Yuan**, Mengke Song, Jia Song, Xinyu Liu, Chenglizhao Chen#
+
+4.Appearance Defect Detection for Logistics Conveyor Lines(Student Project Leader) 2024.12-2025.02
+
+3.Unveiling Context-Related Anomalies: Knowledge Graph Empowered Decoupling of Scene and Action for Human-Related Video Anomaly Detection
+
+Chenglizhao Chen, Xinyu Liu, Mengke Song, Luming Li, **Shaojiang Yuan**, Xu Yu, Shanchen Pang
+
+2.Face Recognition Project for China UnionPay(Student Project Leader) 2022.02-2023.10
 
 1.Surface defect detection of highly reflective leather based on dual-mask-guided deep-learning model
 
-Shaojiang Yuan, Li Li, Hao Chen, Xian Li
+**Shaojiang Yuan**, Li Li#, Hao Chen, Xian Li
 
 </div>
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- National Scholarship (the highest scholarship for Student), 2023.11
+- National Third Prize in "HUAWEI Cup" The 21st China Post-Graduate Mathematical Contest in Modeling, 2024.12
