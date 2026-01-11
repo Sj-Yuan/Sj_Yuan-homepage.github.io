@@ -64,9 +64,9 @@ Chenglizhao Chen, Xinyu Liu, Mengke Song, Luming Li, **Shaojiang Yuan**, Xu Yu, 
 </div>
 
 # 🎖 Honors and Awards
-- National Scholarship (the highest scholarship for Student), 2023.11
 - National Third Prize in "HUAWEI Cup" The 21st China Post-Graduate Mathematical Contest in Modeling, 2024.12
+- National Scholarship (the highest scholarship for Master Student), 2023.11
 
 # 💻 Internships
-- *2021.06 - 2021.08*, Huawei, Hubei Mobile Project, Wuhan, China.
 - *2023.06 - 2023.09*, Goertek, Microsoft AR Glasses Project, Qingdao, China.
+- *2021.06 - 2021.08*, Huawei, China Mobile Hubei Branch Project, Wuhan, China.
