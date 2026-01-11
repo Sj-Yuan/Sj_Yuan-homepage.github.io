@@ -36,6 +36,8 @@ Any form of collaboration is welcome. Please feel free to contact me via email (
 <div class='paper-box-text' markdown="1">
 *: Equal contribution #: Corresponding author.
 
+9.Robotic Object Grasping and Manipulation in Complex Concealed Environments(Student Project Leader) 2025.12-Present
+
 8.GenCAMO: Scene-Graph Contextual Decoupling for Environment-aware and Mask-free Camouflage Image-Dense Annotation Generation
 
 Chenglizhao Chen, **Shaojiang Yuan**#*, Xiaoxue Lu, Mengke Song, Jia Song, Zhenyu Wu, Wenfeng Song, Shuai Li
