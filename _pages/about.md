@@ -28,32 +28,9 @@ Any form of collaboration is welcome. Please feel free to contact me via email (
 - *2026.01*: Our method GenCAMO for <a href='https://arxiv.org/abs/2601.01181'>Concealed Object Generation</a> is now available on arXiv. The dataset, code, and demo will be released soon.
 - *2025.05*: &nbsp;🎉🎉 Our paper on <a href='https://ieeexplore.ieee.org/abstract/document/11002588/'>Multi-view Image Anomaly Detection</a> has been accepted by IEEE TIM.
 - *2025.02*: &nbsp;🎉🎉 Our paper on <a href='https://ieeexplore.ieee.org/abstract/document/10904424/'>Single-view Video Anomaly Detection</a> has been accepted by IEEE TCSVT.
-- *2024.04*: &nbsp;🎉🎉 <a href='https://computer.upc.edu.cn/2024/0423/c21961a429454/page.htm'>Ranked 1st</a> in the major on the Ph.D. admission list at China University of Petroleum (East China).
 - *2023.08*: &nbsp;🎉🎉 Our paper on <a href='https://ieeexplore.ieee.org/abstract/document/10234460'>Specular Reflective Removal</a> has been accepted by IEEE TIM.
 
-# 📝 Publications and Projects
-
-<div class='paper-box-text' markdown="1">
-*: Equal contribution #: Corresponding author.
-
-9.**Robotic** Object Grasping and Manipulation in Complex Concealed Environments(Student Project Leader) 2025.12-Present
-
-8.GenCAMO: Scene-Graph Contextual Decoupling for Environment-aware and Mask-free Camouflage Image-Dense Annotation Generation
-
-Chenglizhao Chen, **Shaojiang Yuan**#*, Xiaoxue Lu, Mengke Song, Jia Song, Zhenyu Wu, Wenfeng Song, Shuai Li
-
-7.Real-Time Visual Anomaly Detection in Food Processing Lines(Student Project Leader) 2025.06-Present
-
-6.Visual Inspection of Transparent Medical Bags for Foreign Contaminants(Student Project Leader) 2024.12-2025.12
-
-
-4.Appearance Defect Detection for Logistics Conveyor Lines(Student Project Leader) 2024.12-2025.02
-
-
-2.Face Recognition Project for China UnionPay(Student Project Leader) 2022.02-2023.10
-
-</div>
-
+# 📝 Publications
 <div class="paper-box">
   <div class="paper-box-image">
     <img src="images/arxiv_2026.png" alt="arxiv25 framework" />
@@ -126,7 +103,36 @@ We propose a method that effectively removes specular highlights while preservin
   </div>
 </div>
 
+# 📚 Projects
+<div class="paper-box">
+  <div class="paper-box-image">
+    <img src="images/face2022.png" alt="face22" />
+  </div>
 
+  <div class="paper-box-text" markdown="1">
+**Face Recognition Project for China UnionPay**
+
+**Student Project Leader**
+
+*2022.02-2023.10*
+
+We built a face recognition pipeline that achieves reliable identity recognition under unconstrained real-world conditions.
+</div>
+</div>
+
+<div class='paper-box-text' markdown="1">
+
+9.**Robotic** Object Grasping and Manipulation in Complex Concealed Environments(Student Project Leader) 2025.12-Present
+
+7.Real-Time Visual Anomaly Detection in Food Processing Lines(Student Project Leader) 2025.06-Present
+
+6.Visual Inspection of Transparent Medical Bags for Foreign Contaminants(Student Project Leader) 2024.12-2025.12
+
+4.Appearance Defect Detection for Logistics Conveyor Lines(Student Project Leader) 2024.12-2025.02
+
+2.Face Recognition Project for China UnionPay(Student Project Leader) 2022.02-2023.10
+
+</div>
 
 # 🎖 Honors and Awards
 - National Third Prize in "HUAWEI Cup" The 21st China Post-Graduate Mathematical Contest in Modeling, 2024.12
