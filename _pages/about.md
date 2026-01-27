@@ -155,12 +155,9 @@ We built a face recognition pipeline that achieves reliable identity recognition
 
 <div class='paper-box-text' markdown="1">
 
-9.**Robotic** Object Grasping and Manipulation in Complex Concealed Environments(Student Project Leader) 2025.12-Present
+[comment]: <> (9.**Robotic** Object Grasping and Manipulation in Complex Concealed Environments&#40;Student Project Leader&#41; 2025.12-Present)
 
-7.Real-Time Visual Anomaly Detection in Food Processing Lines(Student Project Leader) 2025.06-Present
-
-6.Visual Inspection of Transparent Medical Bags for Foreign Contaminants(Student Project Leader) 2024.12-2025.12
-
+[comment]: <> (7.Real-Time Visual Anomaly Detection in Food Processing Lines&#40;Student Project Leader&#41; 2025.06-Present)
 
 </div>
 
