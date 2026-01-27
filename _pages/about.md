@@ -17,16 +17,17 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a second-year Ph.D. student (2024–) at the College of Computer Science and Technology, China University of Petroleum (East China), under the supervision of <a href='http://chenglizhaochen.cn/'>Prof. Chenglizhao Chen</a>. I received my previous training in computer vision and industrial AI, with my early research and engineering work focusing on visual anomaly detection using fixed-position multi-view camera setups, through which I completed multiple real-world industrial product deployments.
+I am a second-year Ph.D. student (2024–) at the College of Computer Science and Technology, China University of Petroleum (East China), under the supervision of <a href='http://chenglizhaochen.cn/'>Prof. Chenglizhao Chen</a>. 
+I received my previous training in computer vision and industrial AI, with my early research and engineering work focusing on visual anomaly detection using multi-view industrial camera setups, through which I completed multiple real-world industrial product deployments.
 
-Recently, my research interests have shifted toward embodied AI, focusing on the integration of 3D geometric vision, active sensing, and robotic interaction to enable robust perception and decision-making in complex real-world environments.
+Recently, my research interests have shifted toward embodied AI, focusing on the integration of 3D geometric vision, active sensing, and robotic interaction to enable robust perception and decision-making in complex real-world industrial environments.
 
 Any form of collaboration is welcome. Please feel free to contact me via email (yuanshaojiang001@163.com; bz24070009@s.upc.edu.cn).
 
 # 🔥 News
-- *2026.01*: Our paper on <a href='https://arxiv.org/abs/2601.01181'>Concealed Object Generation</a> is submitted to CVPR 2026.
+- *2026.01*: Our method GenCAMO for <a href='https://arxiv.org/abs/2601.01181'>Concealed Object Generation</a> is now available on arXiv. The dataset, code, and demo will be released soon.
 - *2025.05*: &nbsp;🎉🎉 Our paper on <a href='https://ieeexplore.ieee.org/abstract/document/11002588/'>Multi-view Image Anomaly Detection</a> has been accepted by IEEE TIM.
-- *2025.02*: &nbsp;🎉🎉 Our paper on <a href='https://ieeexplore.ieee.org/abstract/document/10234460'>Single-view Video Anomaly Detection</a> has been accepted by IEEE TCSVT.
+- *2025.02*: &nbsp;🎉🎉 Our paper on <a href='https://ieeexplore.ieee.org/abstract/document/10904424/'>Single-view Video Anomaly Detection</a> has been accepted by IEEE TCSVT.
 - *2024.04*: &nbsp;🎉🎉 <a href='https://computer.upc.edu.cn/2024/0423/c21961a429454/page.htm'>Ranked 1st</a> in the major on the Ph.D. admission list at China University of Petroleum (East China).
 - *2023.08*: &nbsp;🎉🎉 Our paper on <a href='https://ieeexplore.ieee.org/abstract/document/10234460'>Specular Reflective Removal</a> has been accepted by IEEE TIM.
 
@@ -62,6 +63,28 @@ Chenglizhao Chen, Xinyu Liu, Mengke Song, Luming Li, **Shaojiang Yuan**, Xu Yu, 
 **Shaojiang Yuan**, Li Li#, Hao Chen, Xian Li
 
 </div>
+
+<div class="paper-box">
+  <!-- 左侧图片 -->
+  <div class="paper-box-image">
+    <img src="images/stage_framework.png" alt="STAGE framework" />
+  </div>
+
+  <!-- 右侧文字 -->
+  <div class="paper-box-text" markdown="1">
+  **STAGE: Segmentation-oriented Industrial Anomaly Synthesis via Graded Diffusion with Explicit Mask Alignment**  
+
+  Xichen Xu*, Yanshu Wang*, Jinbao Wang, Qunyi Zhang, Xiaoning Lei,  
+  **Guoyang Xie**#, Guannan Jiang, Zhichao Lu  
+
+  *Submitted to TIP, 2025*  
+
+  [project page] / [paper link](https://arxiv.org/abs/xxxx.xxxxx)
+
+  We propose **segmentation-oriented anomaly synthesis** via graded diffusion with explicit mask alignment.
+  </div>
+</div>
+
 
 # 🎖 Honors and Awards
 - National Third Prize in "HUAWEI Cup" The 21st China Post-Graduate Mathematical Contest in Modeling, 2024.12
