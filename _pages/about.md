@@ -46,19 +46,48 @@ Chenglizhao Chen, **Shaojiang Yuan**#*, Xiaoxue Lu, Mengke Song, Jia Song, Zheny
 
 6.Visual Inspection of Transparent Medical Bags for Foreign Contaminants(Student Project Leader) 2024.12-2025.12
 
-5.Robust Industrial Anomaly Detection via Style Shift Estimation and Cascade Distillation
-
-**Shaojiang Yuan**, Mengke Song, Jia Song, Xinyu Liu, Chenglizhao Chen#
 
 4.Appearance Defect Detection for Logistics Conveyor Lines(Student Project Leader) 2024.12-2025.02
 
-3.Unveiling Context-Related Anomalies: Knowledge Graph Empowered Decoupling of Scene and Action for Human-Related Video Anomaly Detection
-
-Chenglizhao Chen, Xinyu Liu, Mengke Song, Luming Li, **Shaojiang Yuan**, Xu Yu, Shanchen Pang
 
 2.Face Recognition Project for China UnionPay(Student Project Leader) 2022.02-2023.10
 
+</div>
 
+<div class="paper-box">
+  <div class="paper-box-image">
+    <img src="images/arxiv_2026.png" alt="arxiv25 framework" />
+  </div>
+
+  <div class="paper-box-text" markdown="1">
+**GenCAMO: Scene-Graph Contextual Decoupling for Environment-aware and Mask-free Camouflage Image-Dense Annotation Generation**
+
+**Shaojiang Yuan**, Chenglizhao Chen, Xiaoxue Lu, Mengke Song, Jia Song, Zhenyu Wu, Wenfeng Song, Shuai Li
+
+*ArXiv, 2026*
+
+[Paper](https://arxiv.org/abs/2601.01181)
+
+We propose **GenCAMO**, a mask-free and environment-aware generative framework that synthesizes high-quality camouflage image–dense annotations to improve conceal dense prediction.
+</div>
+</div>
+
+<div class="paper-box">
+  <div class="paper-box-image">
+    <img src="images/tim_2025.png" alt="tim25 framework" />
+  </div>
+
+  <div class="paper-box-text" markdown="1">
+**Robust Industrial Anomaly Detection via Style Shift Estimation and Cascade Distillation**
+
+**Shaojiang Yuan**, Mengke Song, Jia Song, Xinyu Liu, Chenglizhao Chen
+
+*IEEE Transactions on Instrumentation and Measurement (TIM), 2023*
+
+[Paper](https://ieeexplore.ieee.org/abstract/document/11002588)
+
+We propose a method that leverages anomaly style shift estimation to incorporate style information into KD-based industrial anomaly detection.  
+</div>
 </div>
 
 <div class="paper-box">
@@ -78,7 +107,6 @@ Chenglizhao Chen, Xinyu Liu, Mengke Song, Luming Li, **Shaojiang Yuan**, Xu Yu, 
 We propose **DecoAD**, a decoupling-based video anomaly detection framework that explicitly models scene–action relationships to improve generalization across known and unknown scenarios.
   </div>
 </div>
-
 
 <div class="paper-box">
   <div class="paper-box-image">
