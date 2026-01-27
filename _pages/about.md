@@ -67,21 +67,20 @@ Chenglizhao Chen, Xinyu Liu, Mengke Song, Luming Li, **Shaojiang Yuan**, Xu Yu, 
 <div class="paper-box">
   <!-- 左侧图片 -->
   <div class="paper-box-image">
-    <img src="images/stage_framework.png" alt="STAGE framework" />
+    <img src="images/tim_2023.png" alt="tim2023 framework" />
   </div>
 
   <!-- 右侧文字 -->
   <div class="paper-box-text" markdown="1">
-  **STAGE: Segmentation-oriented Industrial Anomaly Synthesis via Graded Diffusion with Explicit Mask Alignment**  
+  **Surface Defect Detection of Highly Reflective Leather Based on Dual-Mask-Guided Deep-Learning Model**  
 
-  Xichen Xu*, Yanshu Wang*, Jinbao Wang, Qunyi Zhang, Xiaoning Lei,  
-  **Guoyang Xie**#, Guannan Jiang, Zhichao Lu  
+  **Shaojiang Yuan**, Li Li, Hao Chen, Xian Li
 
-  *Submitted to TIP, 2025*  
+  *IEEE Transactions on Instrumentation and Measurement(TIM), 2023*  
 
-  [project page] / [paper link](https://arxiv.org/abs/xxxx.xxxxx)
+  [paper link](https://ieeexplore.ieee.org/abstract/document/10234460)
 
-  We propose **segmentation-oriented anomaly synthesis** via graded diffusion with explicit mask alignment.
+  We propose a method that effectively removes specular highlights while preserving bright defects for accurate defect detection on highly reflective surfaces.
   </div>
 </div>
 
