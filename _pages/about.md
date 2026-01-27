@@ -58,10 +58,26 @@ Chenglizhao Chen, Xinyu Liu, Mengke Song, Luming Li, **Shaojiang Yuan**, Xu Yu, 
 
 2.Face Recognition Project for China UnionPay(Student Project Leader) 2022.02-2023.10
 
-1.Surface defect detection of highly reflective leather based on dual-mask-guided deep-learning model
 
-**Shaojiang Yuan**, Li Li#, Hao Chen, Xian Li
+</div>
 
+<div class="paper-box">
+  <!-- 左侧图片 -->
+  <div class="paper-box-image">
+    <img src="images/tcsvt_2025.png" alt="tcsvt25 framework" />
+  </div>
+
+  <!-- 右侧文字 -->
+  <div class="paper-box-text" markdown="1">
+  **Unveiling Context-Related Anomalies: Knowledge Graph Empowered Decoupling of Scene and Action for Human-Related Video Anomaly Detection**  
+
+  Chenglizhao Chen, Xinyu Liu, Mengke Song, Luming Li, **Shaojiang Yuan**, Xu Yu, Shanchen Pang
+
+  *IEEE Transactions on Circuits and Systems for Video Technology(TCSVT), 2025*  
+
+  [project_link](https://github.com/liuxy3366/DecoAD) / [paper link](https://ieeexplore.ieee.org/document/10904424)
+
+  This paper proposes DecoAD, a decoupling-based video anomaly detection framework that explicitly models scene–action relationships to improve generalization across known and unknown scenarios.  </div>
 </div>
 
 <div class="paper-box">
