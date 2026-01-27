@@ -62,43 +62,42 @@ Chenglizhao Chen, Xinyu Liu, Mengke Song, Luming Li, **Shaojiang Yuan**, Xu Yu, 
 </div>
 
 <div class="paper-box">
-  <!-- 左侧图片 -->
   <div class="paper-box-image">
     <img src="images/tcsvt_2025.png" alt="tcsvt25 framework" />
   </div>
 
-  <!-- 右侧文字 -->
   <div class="paper-box-text" markdown="1">
-  **Unveiling Context-Related Anomalies: Knowledge Graph Empowered Decoupling of Scene and Action for Human-Related Video Anomaly Detection**  
+**Unveiling Context-Related Anomalies: Knowledge Graph Empowered Decoupling of Scene and Action for Human-Related Video Anomaly Detection**
 
-  Chenglizhao Chen, Xinyu Liu, Mengke Song, Luming Li, **Shaojiang Yuan**, Xu Yu, Shanchen Pang
+Chenglizhao Chen, Xinyu Liu, Mengke Song, Luming Li, **Shaojiang Yuan**, Xu Yu, Shanchen Pang
 
-  *IEEE Transactions on Circuits and Systems for Video Technology(TCSVT), 2025*  
+*IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2025*
 
-  [project_link](https://github.com/liuxy3366/DecoAD) / [paper link](https://ieeexplore.ieee.org/document/10904424)
+[Project Page](https://github.com/liuxy3366/DecoAD) / [Paper](https://ieeexplore.ieee.org/document/10904424)
 
-  This paper proposes DecoAD, a decoupling-based video anomaly detection framework that explicitly models scene–action relationships to improve generalization across known and unknown scenarios.  </div>
+We propose **DecoAD**, a decoupling-based video anomaly detection framework that explicitly models scene–action relationships to improve generalization across known and unknown scenarios.
+  </div>
 </div>
 
+
 <div class="paper-box">
-  <!-- 左侧图片 -->
   <div class="paper-box-image">
     <img src="images/tim_2023.png" alt="tim2023 framework" />
   </div>
 
-  <!-- 右侧文字 -->
   <div class="paper-box-text" markdown="1">
-  **Surface Defect Detection of Highly Reflective Leather Based on Dual-Mask-Guided Deep-Learning Model**  
+**Surface Defect Detection of Highly Reflective Leather Based on Dual-Mask-Guided Deep-Learning Model**
 
-  **Shaojiang Yuan**, Li Li, Hao Chen, Xian Li
+**Shaojiang Yuan**, Li Li, Hao Chen, Xian Li
 
-  *IEEE Transactions on Instrumentation and Measurement(TIM), 2023*  
+*IEEE Transactions on Instrumentation and Measurement (TIM), 2023*
 
-  [paper link](https://ieeexplore.ieee.org/abstract/document/10234460)
+[Paper](https://ieeexplore.ieee.org/abstract/document/10234460)
 
-  We propose a method that effectively removes specular highlights while preserving bright defects for accurate defect detection on highly reflective surfaces.
+We propose a method that effectively removes specular highlights while preserving bright defects for accurate defect detection on highly reflective surfaces.
   </div>
 </div>
+
 
 
 # 🎖 Honors and Awards
